@@ -11,6 +11,7 @@
 	String tagline = "Welcome to Web Market!";%>
 	<div class="jumbotron">
 		<div class="container">
+			<h1 class="card-title">오은석</h1>
 			<h1 class="display-3">
 				<%=greeting%>
 			</h1>
